@@ -35,6 +35,57 @@
 <p align="center">
 <a href="https://youtu.be/A_g3lMcWVy0"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png" height="100" width="100"></a>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
+<br>
+
+<p align="left">
+
+- **Lenguajes y Base de Datos**:
+    
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mastodon-Dark.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="50" height="50" />
+
+- **Librerias**:
+
+   <img src="https://www.svgrepo.com/show/354127/numpy.svg" width="50" height="50" alt="HTML" />
+   <img src="https://pandas.pydata.org/static/img/favicon_white.ico" width="50" height="50" alt="HTML" />
+  <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" width="50" height="50" alt="HTML" />
+  <img src="https://www.svgrepo.com/show/354127/numpy.svg" width="50" height="50" alt="HTML" /> 
+
+
+
+- **Frameworks**:
+
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="50" height="50" alt="Git"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50" alt="Git"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50" alt="Git"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="50" height="50" alt="Git"/>
+    <img src="https://www.svgrepo.com/show/353912/ionic-icon.svg" width="50" height="50" alt="Git"/>
+
+
+
+- **Extras**:
+
+    <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="50" height="50" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="50" height="50" alt="Git"/>
+    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/615f8d24-e754-4523-9466-ad180c01e728.png?auto=format,compress&size=50" width="50" height="50" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="50" height="50" alt="Git"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50" height="50" alt="Git"/>
+
+
+
+ 
+
+<br>
+</p>
+
 
 <h2 align="center">Tecnologías más usadas</h2>
 
