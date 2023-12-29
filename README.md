@@ -49,7 +49,7 @@
 
 - **Lenguajes y Base de Datos**:
     
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50  " />
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50" />
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50" height="50" />
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50" />
