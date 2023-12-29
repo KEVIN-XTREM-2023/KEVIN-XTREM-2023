@@ -102,9 +102,10 @@
 </div>
 
 ### Mis Proyectos ✨
-<a href="https://github.com/KEVIN-XTREM-2023/FORMULARIO-ISTG-21-v2">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=KEVIN-XTREM-2023&repo=FORMULARIO-ISTG-21-v2&theme=tokyonight" />
-    	</a>
+
+<div> 
+ <p align="center">
+   
 
   
 <a href="https://github.com/KEVIN-XTREM-2023/FORMULARIO-ISTG-21-v2.git">
@@ -154,6 +155,9 @@
 <a href="https://github.com/KEVIN-XTREM-2023/GestorTaxis.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KEVIN-XTREM-2023&repo=GestorTaxis&theme=tokyonight" />
 </a>
+
+  </p>
+</div>
 
 
 
