@@ -29,11 +29,11 @@
 
 
 <h1>
-  Musica Favorita
+  Música Favorita
 </h1>
 
 <p align="center">
-<a href="https://open.spotify.com/intl-es/track/2tTmW7RDtMQtBk7m2rYeSw?autoplay=true"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png" height="100" width="100"></a>
+<a href="https://youtu.be/A_g3lMcWVy0"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png" height="100" width="100"></a>
 
 
 <h2 align="center">Tecnologías más usadas</h2>
