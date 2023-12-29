@@ -189,10 +189,6 @@
 
 <h2 align='center'>Gracias por visitarnos!!!!!</h2>
 
-
-
-
-<br>
 <br>
 <h3 align="center">Contactanos</h3>
 <p align="center">
