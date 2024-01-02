@@ -55,7 +55,6 @@
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50" />
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50" height="50" />
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50" />
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mastodon-Dark.svg" width="50" height="50" />
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50" />
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="50" height="50" />
 
