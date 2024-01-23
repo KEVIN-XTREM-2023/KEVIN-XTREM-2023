@@ -163,6 +163,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KEVIN-XTREM-2023&repo=appSCreditos&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/KEVIN-XTREM-2023/ReconocimientoPlacas.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KEVIN-XTREM-2023&repo=ReconocimientoPlacas&theme=tokyonight" />
+</a>
+
+
+<a href="https://github.com/KEVIN-XTREM-2023/GestorArchivos.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KEVIN-XTREM-2023&repo=GestorArchivos&theme=tokyonight" />
+</a>
+
+
+
+
 <a href="https://github.com/KEVIN-XTREM-2023/Certificados.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KEVIN-XTREM-2023&repo=Certificados&theme=tokyonight" />
 </a>
