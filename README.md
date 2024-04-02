@@ -1,9 +1,9 @@
 <p align="center">
-  <h1 align="center">Bienvenidos nuestro GitHub <a href="https://github.com/KEVIN-XTREM-2023">LionTech 👋</h1>
+  <h1 align="center">Bienvenidos nuestros GitHub <a href="https://github.com/KEVIN-XTREM-2023">LionTech 👋</h1>
 </p>
 
 <p align="center">
-  <a align="center" href="https://github.com/KEVIN-XTREM-2023"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Bienvenido+a+mi+GitHub!;Ingeniro+en+Software" /></a>
+  <a align="center" href="https://github.com/KEVIN-XTREM-2023"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Bienvenido+a+mi+GitHub!;Ingeniros+en+Software" /></a>
 
   
 </p>
